@@ -47,7 +47,7 @@ I believe that every project is an opportunity to learn something new. I enjoy s
 
 A QR-based smart attendance management system designed to simplify student attendance tracking.
 
-**Technologies:**
+**Technologies:
 
 * Java
 * Python
@@ -65,8 +65,6 @@ A QR-based smart attendance management system designed to simplify student atten
 * 🔹 Web API
 * 🔹 REST API
 * 🔹 JavaScript
-
-
 ---
 
 # 🎯 My Goals
@@ -84,13 +82,8 @@ A QR-based smart attendance management system designed to simplify student atten
 * 🚀 Become a skilled **Full Stack Developer**
 * 💼 Build a successful career in software development
 * 🧠 Become an expert in .NET technologies
-* 🌍 Work on large-scale real-world applications
-* 📚 Continue learning new technologies
-
+* 🌍 Work on large-scale real-world application
 ---
-
-
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -103,29 +96,12 @@ A QR-based smart attendance management system designed to simplify student atten
 # 🤝 Connect With Me
 
 <p align="left">
-
 <a href="https://github.com/Roshanpatil7806">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 <a href="https://www.linkedin.com/in/roshan-patil-15632a266/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
-
 </p>
 
----
-
-
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-**Made with ❤️ by Roshan Patil**
-
-</p>
+--
