@@ -12,29 +12,14 @@
 
 ## 💡 About Me
 
-I am a passionate and motivated **Software Developer** who enjoys learning new technologies and building practical applications.
-
-I’m particularly interested in **C#, .NET, ASP.NET Core, SQL, Web Development and Programming**.
-
-My attitude towards technology is:
-
-> **“I don’t know it all, but I will figure it out.”**
-
+I am a passionate and motivated **Software Developer** who enjoys learning new technologies and building practical applications.I’m particularly interested in **C#, .NET, ASP.NET Core, SQL, Web Development and Programming
 I believe that every project is an opportunity to learn something new. I enjoy solving programming problems, exploring new technologies, and improving my development skills through hands-on practice.
-
 ---
-
 # 🛠️ Languages and Tools
 
 ## 👨‍💻 Programming Languages
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
