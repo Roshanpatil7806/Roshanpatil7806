@@ -59,7 +59,7 @@ Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and 
 
 ---
 
-# 🚀 Featured Project
+# 🚀  Project
 
 ## 📱 Smart Attendance System
 
@@ -121,9 +121,7 @@ A **QR-based Smart Attendance Management System** designed to simplify and impro
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Roshanpatil7806&show_icons=true&theme=tokyonight&hide_border=true" alt="Roshan's GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshanpatil7806&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
