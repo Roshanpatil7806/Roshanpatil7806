@@ -5,17 +5,15 @@
 * 🌱 I’m currently learning **C#, .NET, ASP.NET Core and SQL**
 * 🚀 I enjoy building **real-world software projects**
 * 🧠 I’m passionate about **learning new technologies**
-* ❤️ I believe in **continuous learning and improvement**
-* ✨ **Doing ordinary things extraordinarily**
+* ❤️ I believe in **continuous learning and improvement*
 
 ---
 
-## 💡 About Me
+## 💡 About Me #
 
 I am a passionate and motivated **Software Developer** who enjoys learning new technologies and building practical applications.I’m particularly interested in **C#, .NET, ASP.NET Core, SQL, Web Development and Programming
 I believe that every project is an opportunity to learn something new. I enjoy solving programming problems, exploring new technologies, and improving my development skills through hands-on practice.
 ---
-# 🛠️ Languages and Tools
 
 ## 👨‍💻 Programming Languages
 
