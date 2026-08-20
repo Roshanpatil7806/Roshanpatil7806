@@ -117,26 +117,6 @@ A **QR-based Smart Attendance Management System** designed to simplify and impro
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshanpatil7806&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="left">
