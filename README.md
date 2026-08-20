@@ -9,9 +9,9 @@
 
 ---
 
-## 💡 About Me #
+## 💡 About Me 
 
-I am a passionate and motivated **Software Developer** who enjoys learning new technologies and building practical applications.I’m particularly interested in **C#, .NET, ASP.NET Core, SQL, Web Development and Programming
+I am a passionate and motivated **Software Developer** who enjoys learning new technologies and building practical applications .I’m particularly interested in **C#, .NET, ASP.NET Core, SQL, Web Development and Programming
 I believe that every project is an opportunity to learn something new. I enjoy solving programming problems, exploring new technologies, and improving my development skills through hands-on practice.
 ---
 
@@ -26,7 +26,7 @@ I believe that every project is an opportunity to learn something new. I enjoy s
 ---
 ## ⚙️ Backend & Frameworks
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)![ASP.NET Core]([https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white])![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
 ---
 ## 🗄️ Database
