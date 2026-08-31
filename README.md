@@ -1,4 +1,4 @@
-##👋 Hi, I'm Roshan Patil
+## 👋 Hi, I'm Roshan Patil
 
 ## 💻 Software Developer | C# | .NET | Java | Python
 
@@ -21,7 +21,7 @@ Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and 
 
 ---
 
-## 🛠️ Technical Skills
+##  🛠️ Technical Skills
 
  👨‍💻 Programming Languages
 
@@ -74,7 +74,7 @@ A **QR-based Smart Attendance Management System** designed to simplify and impro
 * 📊 Organized attendance data
 * 🔐 Reliable and efficient attendance tracking
 
-##Technologies Used
+## Technologies Used
 
 * Java
 * Python
