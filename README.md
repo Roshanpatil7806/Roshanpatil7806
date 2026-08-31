@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-patil-15632a266/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Roshanpatil7806)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roshanpatil7806@gmail.com)
 
 ---
 
@@ -60,8 +60,6 @@ A comprehensive solution for recording and managing student attendance using QR 
 
 **Technologies:** Java, Python, QR Code Libraries, SQL, MySQL
 
-**Repository:** [Smart Attendance System](https://github.com/Roshanpatil7806) | **Status:** In Development
-
 ---
 
 ## 🛠️ Currently Working On
@@ -86,12 +84,6 @@ A comprehensive solution for recording and managing student attendance using QR 
 - Architect and lead development of large-scale systems
 - Mentor junior developers
 - Establish myself as a thought leader in backend development
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshanpatil7806&theme=dark&show_icons=true)
 
 ---
 
