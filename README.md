@@ -10,12 +10,11 @@ TL;DR: I build backend systems, REST APIs, and small full-stack apps. Current fo
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
-  - [Smart Attendance System](#smart-attendance-system)
+        - [Smart Attendance System](#smart-attendance-system)
 - [Getting Started](#getting-started)
 - [Currently Learning](#currently-learning)
 - [Career Goals](#career-goals)
 - [Connect](#connect)
-- [Contributing & License](#contributing--license)
 
 ---
 
@@ -59,39 +58,6 @@ Demo: (add screenshot or GIF here)
   - Fast attendance recording and exportable reports
 - Technologies: Java, Python, QR libraries, SQL
 
-Repository / docs:
-- Add a dedicated folder or repo for this project and link it here (e.g., /projects/smart-attendance or github.com/yourname/attendance).
-
----
-
-## Getting Started (example)
-Add a project-specific README for exact steps. Example for a typical project:
-
-Prereqs
-- Java 11+ (or Python 3.8+ for the service parts)
-- MySQL / SQL Server
-- Maven / Gradle (or pip/virtualenv)
-
-Install & run (example)
-1. Clone:
-   git clone https://github.com/Roshanpatil7806/<project-repo>.git
-2. Backend:
-   - Configure connection string in appsettings.json / .env
-   - Build & run (Java): mvn spring-boot:run (or for .NET: dotnet run in project folder)
-3. Frontend:
-   - npm install
-   - npm start
-4. Open the app at http://localhost:3000 (or configured port)
-
-Testing
-- Explain how to run unit/integration tests (mvn test, dotnet test, pytest, etc).
-
----
-
-## Currently Learning
-- C#, .NET, ASP.NET Core, MVC, Entity Framework Core
-- REST API best practices, SQL tuning, and JavaScript for frontend
-
 ---
 
 ## Career Goals
@@ -107,12 +73,6 @@ Long-term
 ## Connect
 - GitHub: https://github.com/Roshanpatil7806
 - LinkedIn: https://www.linkedin.com/in/roshan-patil-15632a266/
-
----
-
-## Contributing & License
-- Suggestion: add a CONTRIBUTING.md if you want external contributions.
-- Consider adding a LICENSE (MIT recommended for portfolios).
 
 ---
 
