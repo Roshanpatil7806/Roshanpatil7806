@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Roshan Patil
+##👋 Hi, I'm Roshan Patil
 
-# 💻 Software Developer | C# | .NET | Java | Python
+## 💻 Software Developer | C# | .NET | Java | Python
 
 I am a passionate and motivated **Software Developer** with a strong interest in building reliable, scalable, and user-friendly applications. I enjoy solving programming problems, learning modern technologies, and developing real-world projects that strengthen my software engineering skills.
 
@@ -21,7 +21,7 @@ Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and 
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
  👨‍💻 Programming Languages
 
@@ -30,14 +30,14 @@ Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-# 🌐 Web Development
+## 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-# ⚙️ Backend & Frameworks
+## ⚙️ Backend & Frameworks
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
@@ -50,7 +50,7 @@ Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-# 🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -59,13 +59,13 @@ Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and 
 
 ---
 
-# 🚀  Project
+## 🚀  Project
 
 ## 📱 Smart Attendance System
 
 A **QR-based Smart Attendance Management System** designed to simplify and improve the process of recording and managing student attendance.
 
-# Key Features
+## Key Features
 
 * 📱 QR Code-based attendance
 * 👨‍🎓 Student attendance management
@@ -74,7 +74,7 @@ A **QR-based Smart Attendance Management System** designed to simplify and impro
 * 📊 Organized attendance data
 * 🔐 Reliable and efficient attendance tracking
 
-# Technologies Used
+##Technologies Used
 
 * Java
 * Python
@@ -83,7 +83,7 @@ A **QR-based Smart Attendance Management System** designed to simplify and impro
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 * 🔹 C#
 * 🔹 .NET
@@ -99,7 +99,7 @@ A **QR-based Smart Attendance Management System** designed to simplify and impro
 
 # 🎯 Career Goals
 
-# Short-Term Goals
+##Short-Term Goals
 
 * Strengthen my **C# and .NET development skills**
 * Build and deploy **real-world applications**
@@ -107,7 +107,7 @@ A **QR-based Smart Attendance Management System** designed to simplify and impro
 * Develop strong **problem-solving skills**
 * Gain practical experience with **ASP.NET Core Web API**
 
-# Long-Term Goals
+## Long-Term Goals
 
 * 🚀 Become a skilled **Full Stack Software Developer**
 * 💼 Build a successful career in software engineering
