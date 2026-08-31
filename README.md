@@ -23,7 +23,7 @@ Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and 
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
+ 👨‍💻 Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
