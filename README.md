@@ -1,144 +1,119 @@
-## 👋 Hi, I'm Roshan Patil
+# 👋 Hi — I’m Roshan Patil
 
-## 💻 Software Developer | C# | .NET | Java | Python
+Full-stack software developer focused on building reliable and maintainable web applications using C#, .NET, Java and Python.
 
-I am a passionate and motivated **Software Developer** with a strong interest in building reliable, scalable, and user-friendly applications. I enjoy solving programming problems, learning modern technologies, and developing real-world projects that strengthen my software engineering skills.
-
-Currently, I am focusing on **C#, .NET, ASP.NET Core, SQL, Web Development, and REST APIs**, while continuing to strengthen my knowledge of **Java and Python**.
+TL;DR: I build backend systems, REST APIs, and small full-stack apps. Current focus: C#, ASP.NET Core, Entity Framework Core, SQL and Web APIs.
 
 ---
 
-## 🚀 About Me
-
-* 💻 Passionate about **Software Development & Web Development**
-* 🔹 Strong foundation in **Object-Oriented Programming**
-* 🌱 Currently learning **C#, .NET, ASP.NET Core, MVC & Entity Framework Core**
-* 🗄️ Interested in **SQL & Database Development**
-* 🌐 Learning **REST APIs & Backend Development**
-* 🧠 Enjoy solving programming and logical problems
-* 🚀 Interested in building **real-world software applications**
-* 📚 Believe in **continuous learning and improvement**
-
----
-
-##  🛠️ Technical Skills
-
- 👨‍💻 Programming Languages
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-## 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-## ⚙️ Backend & Frameworks
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
-## 🗄️ Databases
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-## 🔧 Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+  - [Smart Attendance System](#smart-attendance-system)
+- [Getting Started](#getting-started)
+- [Currently Learning](#currently-learning)
+- [Career Goals](#career-goals)
+- [Connect](#connect)
+- [Contributing & License](#contributing--license)
 
 ---
 
-## 🚀  Project
-
-## 📱 Smart Attendance System
-
-A **QR-based Smart Attendance Management System** designed to simplify and improve the process of recording and managing student attendance.
-
-## Key Features
-
-* 📱 QR Code-based attendance
-* 👨‍🎓 Student attendance management
-* 🗄️ Database integration
-* ⚡ Faster attendance recording
-* 📊 Organized attendance data
-* 🔐 Reliable and efficient attendance tracking
-
-## Technologies Used
-
-* Java
-* Python
-* QR Code Technology
-* Database
+## About Me
+- Passionate about software and web development with a strong foundation in Object-Oriented Programming.
+- Enjoy solving algorithmic and real-world problems and building projects that demonstrate applied knowledge.
+- Learning-focused: I iterate quickly and share progress on GitHub.
 
 ---
 
-## 📚 Currently Learning
+## Tech Stack
 
-* 🔹 C#
-* 🔹 .NET
-* 🔹 ASP.NET Core
-* 🔹 MVC Architecture
-* 🔹 Entity Framework Core
-* 🔹 Web API
-* 🔹 REST API
-* 🔹 SQL
-* 🔹 JavaScript
+Core
+- ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+- ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet)
+- ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
----
+Languages
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# 🎯 Career Goals
-
-##Short-Term Goals
-
-* Strengthen my **C# and .NET development skills**
-* Build and deploy **real-world applications**
-* Improve my **SQL and database knowledge**
-* Develop strong **problem-solving skills**
-* Gain practical experience with **ASP.NET Core Web API**
-
-## Long-Term Goals
-
-* 🚀 Become a skilled **Full Stack Software Developer**
-* 💼 Build a successful career in software engineering
-* 🧠 Become highly proficient in **.NET technologies**
-* 🌍 Contribute to large-scale, real-world software applications
-* 📈 Continuously improve my technical and professional skills
+Tools
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-# 🤝 Connect With Me
+## Projects
 
-<p align="left">
+### Smart Attendance System
+QR-based Smart Attendance Management System to scan and record student attendance quickly and reliably.
 
-<a href="https://github.com/Roshanpatil7806">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Demo: (add screenshot or GIF here)
+- Features:
+  - QR Code based check-in
+  - Student attendance management dashboard
+  - Database-backed storage (SQL / MySQL)
+  - Fast attendance recording and exportable reports
+- Technologies: Java, Python, QR libraries, SQL
 
-<a href="https://www.linkedin.com/in/roshan-patil-15632a266/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💡 Developer Mindset
-
-> **"Learn. Build. Improve. Repeat."**
-
-I believe consistent learning, practical development, and problem-solving are the keys to becoming a better software engineer.
+Repository / docs:
+- Add a dedicated folder or repo for this project and link it here (e.g., /projects/smart-attendance or github.com/yourname/attendance).
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+## Getting Started (example)
+Add a project-specific README for exact steps. Example for a typical project:
+
+Prereqs
+- Java 11+ (or Python 3.8+ for the service parts)
+- MySQL / SQL Server
+- Maven / Gradle (or pip/virtualenv)
+
+Install & run (example)
+1. Clone:
+   git clone https://github.com/Roshanpatil7806/<project-repo>.git
+2. Backend:
+   - Configure connection string in appsettings.json / .env
+   - Build & run (Java): mvn spring-boot:run (or for .NET: dotnet run in project folder)
+3. Frontend:
+   - npm install
+   - npm start
+4. Open the app at http://localhost:3000 (or configured port)
+
+Testing
+- Explain how to run unit/integration tests (mvn test, dotnet test, pytest, etc).
+
+---
+
+## Currently Learning
+- C#, .NET, ASP.NET Core, MVC, Entity Framework Core
+- REST API best practices, SQL tuning, and JavaScript for frontend
+
+---
+
+## Career Goals
+Short-term
+- Improve C#/.NET skills and build deployable apps
+- Gain hands-on experience with Web APIs and databases
+
+Long-term
+- Become a proficient Full Stack Developer working on large systems
+
+---
+
+## Connect
+- GitHub: https://github.com/Roshanpatil7806
+- LinkedIn: https://www.linkedin.com/in/roshan-patil-15632a266/
+
+---
+
+## Contributing & License
+- Suggestion: add a CONTRIBUTING.md if you want external contributions.
+- Consider adding a LICENSE (MIT recommended for portfolios).
+
+---
+
+Thanks for visiting — feel free to explore my repos and reach out!
